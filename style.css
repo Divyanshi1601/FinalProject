@@ -1,0 +1,97 @@
+.d-flex bd-highlight{
+    font-weight: bold
+}
+
+/* for providing padding and top border in project,about and contact sections */
+.sections-container {
+    border-top: gainsboro solid 1px;
+    margin: 20px 2% 0px 2%;
+    padding: 30px 0px 10px 0px;
+    width: 96%;
+  }
+  .project-card-overlay {
+    padding: 0px;
+  }
+  
+  .project-card-title {
+    background-color: black;
+    width: max-content;
+    padding: 10px;
+    margin: 0px 0px;
+    color: white;
+  }
+  .gray-img {
+    filter: grayscale(100%);
+  }
+z*{
+    box-sizing: border-box;
+}
+body{
+    margin:0.2em;
+    padding: 0.2em;
+}
+
+ul{
+    display:flex;
+}
+.carousel-item {
+    height: 550px;
+  }
+
+  .p-2 {
+    margin : 0.3em;
+    padding: .7rem!important;
+    font-size: 23px;
+}
+#about-sec
+{
+    font-size: 23px;
+    margin:1em;
+}
+#head-sec
+{
+    margin-bottom:2em;
+}
+
+
+#contact-sec
+{
+    font-size: 23px;
+    margin:1em;
+}
+.form-group
+{
+    margin:1em;
+}
+.btn
+{
+    margin:1em;
+    background-color: blue;
+    color: black;
+}
+
+.bd-highlight
+{
+background-color:white;
+color:black;
+/* position: fixed; */
+}
+
+.carousel-caption div
+{
+    position: absolute;
+    bottom: 13.25rem;
+    left:40%;
+}
+h1{
+    text-decoration: underline;
+    
+}
+.titles {
+    margin: 80px 0px 0px 30px;
+    font-size: 23px;
+  }
+  h1{
+      color: black;
+  }
+  
